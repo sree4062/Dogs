@@ -1,2 +1,2 @@
 # Dogs
-Added Readme
+edited Readme
